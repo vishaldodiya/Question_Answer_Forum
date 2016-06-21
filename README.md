@@ -1,2 +1,2 @@
 # Question_Answer_Forum
-  Still in development mode
+  Question Answer forum built used Php , JQuery , Ajax , HTML , Bootstrap 
